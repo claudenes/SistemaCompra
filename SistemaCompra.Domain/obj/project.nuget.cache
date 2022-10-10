@@ -1,12 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "yZnm2Bo3j4xgbm8qMUEJGFKHk/YH6SveOX5jKCrHFYsiZ7OdruhQy0Ew1AZRMLfmQoK0XgebNweWG8cD/6opZg==",
-  "success": true,
-  "projectFilePath": "C:\\Projetos\\SistemaCompras\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj",
+  "dgSpecHash": "SZj2o0szznEpuKM0hA/HuBLE7SNk5IrDxXXm1a20hOEfOHY+FrcDsX34NIf8C78X0ikNg1k8Hks7gUkkvpGiRA==",
+  "success": false,
+  "projectFilePath": "C:\\Repository\\Projetos\\Icatu\\SistemaCompra\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\cralmeida\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
-    "C:\\Users\\cralmeida\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\cralmeida\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\cralmeida\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/devopsmcar/_packaging/McarPrivateFeed/nuget/v3/index.json.",
+      "libraryId": "NETStandard.Library"
+    }
+  ]
 }
